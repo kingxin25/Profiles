@@ -6,6 +6,7 @@ https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter
 https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Advertising.list, tag=Advertising, enabled=true
 https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Hijacking.list, tag=Hijacking, enabled=true
 https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/ForeignMedia.list, tag=ForeignMedia, enabled=true
+https://raw.githubusercontent.com/hw0220/Profiles/master/Quantumult/X/Filter/Cydia.list, tag=Cydia,enabled=treu
 https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/DomesticMedia.list, tag=DomesticMedia, enabled=true
 https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Global.list, tag=Global, enabled=true
 https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/China.list, tag=China, enabled=true
