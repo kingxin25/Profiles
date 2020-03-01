@@ -1,4 +1,4 @@
-host-keyword,apt,Cydia
+//host-keyword,apt,Cydia
 user-agent,Cydia*,Cydia
 user-agent,Zebra*,Cydia
 user-agent,com.saurik.Cydia*,Cydia
