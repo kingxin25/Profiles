@@ -5,6 +5,10 @@ user-agent,com.saurik.Cydia*,Cydia
 user-agent,xyz.willy.Zebra*,Cydia
 host-keyword,repo,Cydia
 
+DOMAIN-SUFFIX,revulate.dev,Cydia
+DOMAIN-SUFFIX,parrotgeek.com,Cydia
+DOMAIN-SUFFIX,m156nrkvv.g2.xrea.com,Cydia
+DOMAIN-SUFFIX,lenglengyu,Cydia
 DOMAIN-SUFFIX,modmyi.com,Cydia
 DOMAIN-SUFFIX,thebigboss.org,Cydia
 DOMAIN-SUFFIX,unlimapps.com,Cydia
