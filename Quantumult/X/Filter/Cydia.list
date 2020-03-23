@@ -3,7 +3,7 @@ user-agent,Cydia*,Cydia
 user-agent,Zebra*,Cydia
 user-agent,com.saurik.Cydia*,Cydia
 user-agent,xyz.willy.Zebra*,Cydia
-host-keyword,repo,Cydia
+//host-keyword,repo,Cydia
 
 DOMAIN-SUFFIX,revulate.dev,Cydia
 DOMAIN-SUFFIX,parrotgeek.com,Cydia
