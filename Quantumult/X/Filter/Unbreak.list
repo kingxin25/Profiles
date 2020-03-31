@@ -1,4 +1,6 @@
 # Unbreak
+#test
+DOMAIN-SUFFIX,baidu.com url 302 sina.com
 # > General
 USER-AGENT,coffeecorp*,DIRECT
 USER-AGENT,restaurant-mobile*,DIRECT
